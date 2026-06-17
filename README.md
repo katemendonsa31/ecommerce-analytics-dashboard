@@ -13,8 +13,8 @@ By building an end-to-end analytics pipeline, this project helps executive stake
 
 ##  Live Dashboard Preview
 ![Executive Dashboard Sneak Peek](dashboard/dashboard_screenshot.png)
-
 ## Repository Structure
+```text
 ├── data/
 │   └── dataset_link.txt         # Link to the original Kaggle source data
 ├── notebooks/
@@ -25,6 +25,7 @@ By building an end-to-end analytics pipeline, this project helps executive stake
 │   ├── ecommerce_dashboard.pbix # Complete downloadable Power BI file
 │   └── dashboard_screenshot.png # High-res dashboard visual for quick viewing
 └── README.md                    # Project documentation and business case study
+```
 
 ##  Key Business Insights
 **Seasonality Trends:** Global retail sales peaked aggressively during November, indicating a strong holiday shopping rush. This insight allows inventory managers to scale stock levels prior to Q4.
